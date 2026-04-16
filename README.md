@@ -188,5 +188,5 @@ Result: User data is successfully persisting in the RDS instance and reflecting 
 <img width="691" height="333" alt="image" src="https://github.com/user-attachments/assets/8b874274-cffa-41a7-9410-9f8c15d5b65f" />
 
 ------------------------------
-Next Step: Would you like to automate this deployment using a Shell Script or Ansible Playbook?
+
 
